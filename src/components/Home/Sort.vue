@@ -13,7 +13,7 @@
         imgUrl:'../src/assets/images/nav_01.png'
     },{
         id:2,
-        title:'女装',
+        title:'女装2',
         imgUrl:'../src/assets/images/nav_02.png'
     },
     {
