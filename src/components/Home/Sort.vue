@@ -9,7 +9,7 @@
 <script setup>
     let sortList=[{
         id:1,
-        title:'女装',
+        title:'女装1',
         imgUrl:'../src/assets/images/nav_01.png'
     },{
         id:2,
