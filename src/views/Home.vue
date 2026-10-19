@@ -1,0 +1,12 @@
+<template>
+    <Header></Header>
+    <Sort></Sort>
+    <Goods></Goods>
+    <Tabbar></Tabbar>
+</template>
+<script setup>
+    import Header from '@/components/Home/Header.vue'
+    import Sort from '@/components/Home/Sort.vue'
+    import Goods from '@/components/Home/Goods.vue'
+    import Tabbar from '@/components/common/Tabbar.vue'
+</script>
